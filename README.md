@@ -1,13 +1,12 @@
-# Data Table Full Stack Project (MERN Stack)<br><br>
-<a href="">Live Website/ UI</a>
+# Data Table (Full Stack  - MERN Stack Project)<br>
+<a href="https://data-table-client.netlify.app/">Live Website/ UI</a>
 <br>
 <a href="https://powerful-tundra-11389.herokuapp.com/">Live Server Site</a>
 <h2>Features</h2>
-<li>Create New User Data</li>
+<li>Create New User Data using Modal</li>
 <li>Read Data from MongoDB(database)</li>
-<li>Update Data to database and UI</li>
+<li>Update & Save Data to database and UI</li>
 <li>Delete Data from database and UI</li>
-<li>Staff can add, delete, update patient.</li>
 <li>Send Data to (admin) Email</li>
 
 
@@ -33,5 +32,5 @@
 
 <br>
 
-<a href="https://github.com/Shahman-Riaz/medi-care-hospital-server">Server side repository link</a>
+<a href="https://github.com/Shahman-Riaz/data-table-server">Server site repository link</a>
 <br>
