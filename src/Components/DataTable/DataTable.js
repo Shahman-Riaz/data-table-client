@@ -175,7 +175,7 @@ const handleUserData = () => {
                 <Modal
                     isOpen={modalIsOpen}
                     onAfterOpen={afterOpenModal}
-                    onRequestClose={closeModal}
+                    // onRequestClose={closeModal}
                     onRequestClose={() => {
                         setModalIsOpen(false)
                         window.location.reload();
